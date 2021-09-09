@@ -1,1 +1,1 @@
-console.log("Esto es un nuevo feature");
+console.log("Hola mundo");
