@@ -1,2 +1,3 @@
-const saludo = "Esto es un nuevo feature";
+const saludo = "Hola mundo";
 console.log(saludo);
+
